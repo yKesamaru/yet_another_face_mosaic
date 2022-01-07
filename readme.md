@@ -18,7 +18,7 @@
 # 方法
 ぼかし処理をしたくない顔を用意する。ここではknown_faceディレクトリの中に2つの顔画像を用意した。  
 ![known_face.png](img/known_face-fs8.png)  
-2つのファイルに対して以下のコードを用意する。
+2つのファイルに対して以下のコードを用意する。  
 ```python
 # Encode face images in known_face directory
 priset_face_image_encoding_list = []
